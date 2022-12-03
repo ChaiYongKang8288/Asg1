@@ -94,3 +94,43 @@ p{
     -webkit-transform: scale(1.1); 
     transform: scale(1.1); 
   }
+  .zoom3 {
+    padding: 20px;
+    transition: transform .2s;
+    width: 50%;
+    height: 400px;
+    margin: 0 auto;
+  }
+  
+  .zoom3:hover {
+    -ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1); 
+  }
+  label{
+    font-size: 10px;
+    color: white;
+}
+.button {
+  background-color: red;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: 'Kanit', sans-serif;
+}
+.container{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  border:1px;
+  padding:10px
+  }
+  .space {
+    display:block;
+}
