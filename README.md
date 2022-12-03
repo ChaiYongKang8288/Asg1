@@ -14,3 +14,5 @@ https://www.gettyimages.com/detail/news-photo/michael-jordan-of-the-chicago-bull
 https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3.amazonaws.com%2Fs3.timetoast.com%2Fpublic%2Fuploads%2Fphoto%2F4592751%2Fimage%2F61f0d9af6f692ab352874d6bbda4a6c3&imgrefurl=https%3A%2F%2Fwww.timetoast.com%2Ftimelines%2Fthe-history-of-michael-jordan--2&tbnid=5AYhEP_A3fXmIM&vet=12ahUKEwj95tellN37AhU5h-YKHbhsAMUQMygFegUIARDLAQ..i&docid=znWqOcrnGJ-3NM&w=384&h=480&q=baby%20michael%20jordan&ved=2ahUKEwj95tellN37AhU5h-YKHbhsAMUQMygFegUIARDLAQ
 https://www.gettyimages.com/detail/news-photo/chicago-bulls-player-michael-jordan-with-his-family-and-his-news-photo/950417532
 https://www.gettyimages.com/detail/news-photo/michael-jordan-and-chicago-bulls-head-coach-phil-jackson-news-photo/51637851
+https://www.flaticon.com/free-icon/twitter_3256013?term=twitter&page=1&position=4&page=1&position=4&related_id=3256013&origin=search
+https://www.flaticon.com/free-icon/facebook_5968764
