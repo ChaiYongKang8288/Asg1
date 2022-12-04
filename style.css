@@ -1,17 +1,14 @@
 
 
 
-.line {
-  height : 1px;
-  background-color:black;
-  width:100%
-}
+
 .center {
   display: flex;
-  margin-left: auto;
-  margin-right: auto;
   justify-content: center;
   width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+ 
   
 }
 .topnav {
@@ -21,20 +18,20 @@
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
+  color:white;
   text-decoration: none;
   font-size: 17px;
+  padding: 14px 16px;
+  text-align: center;
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: white;
   color: black;
 }
 
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: gold;
   color: white;
 }
 p{
@@ -46,16 +43,16 @@ p{
   left: 50%;
   transform: translate(-50%, -50%);
   }
-  .centering {
+.centering {
   position: absolute;
   left: 25%;
   
   }
-  * {
+* {
     box-sizing: border-box;
   }
   
-  .zoom {
+.zoom {
     padding: 20px;
     transition: transform .2s;
     width: 50%;
@@ -63,12 +60,12 @@ p{
     margin: 0 auto;
   }
   
-  .zoom:hover {
+.zoom:hover {
     -ms-transform: scale(1.1); 
     -webkit-transform: scale(1.1); 
     transform: scale(1.1); 
   }
-  .zoom1 {
+.zoom1 {
     padding: 20px;
     transition: transform .2s;
     width: 100%;
@@ -76,12 +73,12 @@ p{
     margin: 0 auto;
   }
   
-  .zoom1:hover {
+.zoom1:hover {
     -ms-transform: scale(1.1); 
     -webkit-transform: scale(1.1); 
     transform: scale(1.1); 
   }
-  .zoom2 {
+.zoom2 {
     padding: 20px;
     transition: transform .2s;
     width: 100%;
@@ -89,12 +86,12 @@ p{
     margin: 0 auto;
   }
   
-  .zoom2:hover {
+.zoom2:hover {
     -ms-transform: scale(1.1); 
     -webkit-transform: scale(1.1); 
     transform: scale(1.1); 
   }
-  .zoom3 {
+.zoom3 {
     padding: 20px;
     transition: transform .2s;
     width: 50%;
@@ -102,42 +99,42 @@ p{
     margin: 0 auto;
   }
   
-  .zoom3:hover {
+.zoom3:hover {
     -ms-transform: scale(1.1); 
     -webkit-transform: scale(1.1); 
     transform: scale(1.1); 
   }
-  .zoom4 {
+.zoom4 {
     padding: 10px;
     transition: transform .2s;
-    width: 100%;
+    width: 150%;
     height: 400px;
     margin: 0 auto;
   }
   
-  .zoom4:hover {
+.zoom4:hover {
     -ms-transform: scale(1.1); 
     -webkit-transform: scale(1.1); 
     transform: scale(1.1); 
   }
-  label{
+label{
     font-size: 10px;
     color: white;
 }
 .button {
-  background-color: red;
-  border: none;
+  display: inline-block;
   color: black;
-  padding: 15px 32px;
+  background-color: red;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  border: none;
+  padding: 15px 32px;
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
   font-family: 'Kanit', sans-serif;
 }
 
-  .space {
+.space {
     display:block;
 }

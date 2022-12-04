@@ -1,9 +1,42 @@
 # Asg1
 
+All you need to know about Lebron James
+
+I decided to make a website about Lebron James because recently i am getting more into basketball after falling out of it a few years back and i really like Lebron James because despite being in the NBA for 20 years he is still playing at an amazing level and i appreciate his longevity and many people compare him to Michael Jordan and debate who is better but to me Lebron James is the goat .I made this website because many people do not know about Lebron and one of my pages emphasise how he has become a billionaire.
+
+Design Process:
+
+This website is for casual NBA fans who want to know more about Lebron and my website is a great way because everything is consise and even have a page for Michael Jordan so after people can decide who is the Greatest of All Time.For example with my website, the paragraphs have links in them so if one wants to find out more about something they can and after that know what is happening in the website. See more in my wireframe which did not work out with personal information but it was changed to information about Lebron James. https://xd.adobe.com/view/e574f02a-8c50-4ae6-9ed7-b5569d01537b-b027/
+
+Features:
+My features include...
+Feature 1:User can click on gif in home page to go to About page
+Feature 2:User can click on top nav bar to go to any page
+Feature 3:user can fill form to keep up to date on lebron news
+Feature 4: images zoom when hovered over
+Feature 5:Images work as link
+Feature 6: text have links
+Feature 7:pages are all linked
+
+Future feature: have text hovering over images.
+
+Technologies used:
+
+Testing:
+1.Form
+i:click the login/signup on the top nav bar
+ii:select either log in or sign up
+iii:try to submit the form without an email and the required field appears
+iv: try to submit an email without an @ and the required field appears
+v:submit the form correctly and you will return to home page
+
+Credits:
+Content:
+https://www.architecturaldigest.com/story/inside-lebron-james-real-estate-portfolio
+
+Media:
 https://www.flaticon.com/free-icon/instagram_174855?term=instagram&page=1&position=2&page=1&position=2&related_id=174855&origin=search
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.cnn.com%2Fapi%2Fv1%2Fimages%2Fstellar%2Fprod%2F180701213413-lebron-james-game-7-052718.jpg%3Fq%3Dw_3128%2Ch_2085%2Cx_0%2Cy_0%2Cc_fill%2Fw_1280&imgrefurl=https%3A%2F%2Fwww.cnn.com%2F2014%2F07%2F07%2Fsport%2Flebron-james-fast-facts%2Findex.html&tbnid=39TgUCRlwQvb6M&vet=12ahUKEwi07dGG1tn7AhWqi9gFHQyVCYsQMygdegUIARCeAg..i&docid=XXzk0uNZheveHM&w=1280&h=853&q=lebron%20james&ved=2ahUKEwi07dGG1tn7AhWqi9gFHQyVCYsQMygdegUIARCeAg
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F568086940499457059%2F&psig=AOvVaw2sx2YnrzxjbNmPCLfJ5aGB&ust=1670027199744000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCVl6HW2fsCFQAAAAAdAAAAABAE
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.mensjournal.com%2Fwp-content%2Fuploads%2F2018%2F06%2Flebron-james-short-suit-main.jpg%3Fw%3D1200%26h%3D900%26crop%3D1%26quality%3D86%26strip%3Dall&imgrefurl=https%3A%2F%2Fwww.mensjournal.com%2Fstyle%2Flebron-jamess-short-suit-from-thom-browne-explained%2F&tbnid=zDS94lO9R6lkwM&vet=12ahUKEwiNx6nj29n7AhVp7XMBHVBrD5sQMygBegUIARC_AQ..i&docid=1evHKD93OMgUfM&w=1200&h=900&q=lebron%20james%20in%20a%20suit&ved=2ahUKEwiNx6nj29n7AhVp7XMBHVBrD5sQMygBegUIARC_AQ
 https://www.gettyimages.com/detail/news-photo/lebron-james-of-the-los-angeles-lakers-dunks-against-the-news-photo/1194180180
 https://www.gettyimages.com/detail/news-photo/lebron-james-of-the-miami-heat-poses-with-his-collection-of-news-photo/168122500
 https://www.gettyimages.com/detail/news-photo/lebron-james-and-his-family-attend-the-premiere-of-warner-news-photo/1038077260
@@ -16,8 +49,13 @@ https://www.gettyimages.com/detail/news-photo/chicago-bulls-player-michael-jorda
 https://www.gettyimages.com/detail/news-photo/michael-jordan-and-chicago-bulls-head-coach-phil-jackson-news-photo/51637851
 https://www.flaticon.com/free-icon/twitter_3256013?term=twitter&page=1&position=4&page=1&position=4&related_id=3256013&origin=search
 https://www.flaticon.com/free-icon/facebook_5968764
-https://www.gettyimages.com/detail/news-photo/american-basketball-player-lebron-james-a-minority-news-photo/129222965
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.qsrmagazine.com%2Fmarketing-promotions%2Fall-hail-king-lebron-and-blaze-form-powerful-team&psig=AOvVaw1ttLunjp6y9NTRtaLlQ6A5&ust=1670231676515000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDesv_P3_sCFQAAAAAdAAAAABAK
 https://www.gettyimages.com/detail/news-photo/the-miami-heat-announce-the-re-signing-of-dwyane-wade-and-news-photo/102784777
 https://www.gettyimages.com/detail/news-photo/finals-closeup-of-miami-heat-lebron-james-victorious-with-news-photo/171064116
-https://www.gettyimages.com/detail/news-photo/lebron-james-addresses-the-crowd-during-the-opening-news-photo/1007907270
+https://www.gettyimages.com/detail/news-photo/lebron-james-attends-the-premiere-of-warner-bros-space-jam-news-photo/1328434222
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.si.com%2Fnba%2F2016%2F05%2F17%2Flebron-james-nike-deal-contract-one-billion&psig=AOvVaw3R_3iLSpJ-CvsDYMXpF9eN&ust=1670241948985000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi_4qH23_sCFQAAAAAdAAAAABAE
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.architecturaldigest.com%2Fstory%2Flebron-james-23-million-los-angeles-home&psig=AOvVaw3IG009uORTiZl8DnyPMfbW&ust=1670243855980000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCt8q793_sCFQAAAAAdAAAAABAI
+https://www.gettyimages.com/detail/news-photo/lebron-james-of-the-cleveland-cavaliers-flexes-during-the-news-photo/874645792
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F187532771956154471%2F&psig=AOvVaw0AJfMYnaQwQyB5H0RAKumg&ust=1670247464221000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNiF-eaK4PsCFQAAAAAdAAAAABAE
+
+Acknowledgements:
