@@ -16,3 +16,8 @@ https://www.gettyimages.com/detail/news-photo/chicago-bulls-player-michael-jorda
 https://www.gettyimages.com/detail/news-photo/michael-jordan-and-chicago-bulls-head-coach-phil-jackson-news-photo/51637851
 https://www.flaticon.com/free-icon/twitter_3256013?term=twitter&page=1&position=4&page=1&position=4&related_id=3256013&origin=search
 https://www.flaticon.com/free-icon/facebook_5968764
+https://www.gettyimages.com/detail/news-photo/american-basketball-player-lebron-james-a-minority-news-photo/129222965
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.qsrmagazine.com%2Fmarketing-promotions%2Fall-hail-king-lebron-and-blaze-form-powerful-team&psig=AOvVaw1ttLunjp6y9NTRtaLlQ6A5&ust=1670231676515000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDesv_P3_sCFQAAAAAdAAAAABAK
+https://www.gettyimages.com/detail/news-photo/the-miami-heat-announce-the-re-signing-of-dwyane-wade-and-news-photo/102784777
+https://www.gettyimages.com/detail/news-photo/finals-closeup-of-miami-heat-lebron-james-victorious-with-news-photo/171064116
+https://www.gettyimages.com/detail/news-photo/lebron-james-addresses-the-crowd-during-the-opening-news-photo/1007907270

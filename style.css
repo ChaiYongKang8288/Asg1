@@ -107,6 +107,19 @@ p{
     -webkit-transform: scale(1.1); 
     transform: scale(1.1); 
   }
+  .zoom4 {
+    padding: 10px;
+    transition: transform .2s;
+    width: 100%;
+    height: 400px;
+    margin: 0 auto;
+  }
+  
+  .zoom4:hover {
+    -ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1); 
+  }
   label{
     font-size: 10px;
     color: white;
@@ -124,13 +137,7 @@ p{
   cursor: pointer;
   font-family: 'Kanit', sans-serif;
 }
-.container{
-  display:flex;
-  flex-direction: column;
-  align-items: center;
-  border:1px;
-  padding:10px
-  }
+
   .space {
     display:block;
 }
